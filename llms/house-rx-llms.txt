@@ -1,0 +1,27 @@
+# House Rx
+
+> House Rx is a healthcare technology company that equips independent specialty and community clinics to run in-house, medically integrated dispensing pharmacies. Its cloud platform supports the full specialty-medication workflow — prior authorization, financial counseling, fulfillment, patient outreach, real-time analytics, and EHR integration. House Rx does not publish a public developer API; this profile captures company identity, security posture, and public web properties.
+
+## Company
+- [House Rx](https://www.houserx.com/): Company website — the specialty pharmacy experience patients deserve.
+- [About](https://www.houserx.com/about): Mission, team, and investors.
+- [Technology](https://www.houserx.com/technology): The medically integrated dispensing platform (prior authorization, financial counseling, fulfillment, patient outreach, analytics, EHR integration; SOC 2 compliant).
+- [Blog & News](https://www.houserx.com/blog): Company stories and industry news.
+- [Careers](https://www.houserx.com/careers): Open roles.
+- [Contact](https://www.houserx.com/contact): Get in touch.
+
+## Platform
+- [Customer Portal](https://platform.houserx.com/): Authenticated House Rx platform for clinic care teams (login required; no public API).
+
+## Trust & Security
+- [Trust Center](https://trust.houserx.com/): Security and compliance posture — SOC 2, HIPAA.
+- [Privacy Policy](https://www.houserx.com/legalandprivacy)
+- [Customer Portal Terms](https://www.houserx.com/customer-terms)
+- [Your Privacy Choices](https://www.houserx.com/legal/your-privacy-choices)
+
+## Code
+- [GitHub — houserx](https://github.com/houserx): Engineering organization (public infrastructure modules; no client SDKs).
+
+## Optional
+- [LinkedIn](https://www.linkedin.com/company/house-rx)
+- [Twitter/X](https://twitter.com/HouseRx)

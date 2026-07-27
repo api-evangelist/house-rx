@@ -1,0 +1,13 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://trust.houserx.com/
+url: https://trust.houserx.com/
+certifications:
+- SOC 2
+- HIPAA
+evidence:
+- source: https://trust.houserx.com/
+  keywords:
+  - hipaa
+  - trust center
